@@ -1,40 +1,45 @@
 # 🐍 100 dienų Python iššūkis
 
-Sveiki atvykę į mano **100 dienų Python iššūkį**! 🎯  
-Šioje repozitorijoje dalinuosi kasdieniais projektais, kurie padės man (ir galbūt tau!) tobulinti Python programavimo įgūdžius nuo pagrindų iki pažangesnių temų.
+Sveikas atvykęs!  
+Tai mano asmeninis **100 dienų iššūkis**, kurio metu kasdien kuriu vis sudėtingesnį **Python projektą** – nuo „Hello World“ iki mažų programėlių, žaidimų ar net paprastų įrankių.
 
 ---
 
-## 🗓️ Kas tai?
+## 🔍 Kas čia yra?
 
-Tai mano asmeninis iššūkis – 100 dienų iš eilės kurti po vieną **mažą Python projektą**, kuris kasdien tampa vis sudėtingesnis.  
-Projekto tikslas – mokytis, eksperimentuoti ir dalintis žiniomis su bendruomene.
+- ✅ Kiekviena diena = 1 unikalus projektas
+- 💬 Užduotis aprašyta kaip komentarai tiesiogiai `main.py` faile
+- 🧠 Pagrindinis tikslas – mokytis, eksperimentuoti ir augti
 
 ---
 
-## 📌 Struktūra
+## 🗂️ Aplankų struktūra
 
-Kiekviena diena turi atskirą aplanką:
+ - Day01
+ - Day02
+ - Day03
+...
+
+ Kiekviename:
+ - `main.py` – sprendimas su paaiškinimais
+ - (kartais) papildomi failai – kaip `README.md`, `data.txt` ar `assets/`
  
-Viduje:
-- ✅ `main.py` – sprendimas
-- 💬 `README.md` – dienos užduoties aprašymas
-- 📝 Komentarai paaiškina kiekvieną kodo dalį
+ ---
+ 
+ ## 🚀 Kaip paleisti?
+ 
+ ```bash
+ cd DayXX
+ python main.py 
+ ```
 
----
+## ✨ Kodėl tai darau?
+ - Kad įgaučiau kasdienio programavimo įprotį
+ - Kad mokyčiausi iš klaid
+ - Kad įkvėpčiau kitus tai pabandyti
+💬 Prisijunk!
+Nori pradėti savo iššūkį?
+Tiesiog fork’ink šią repozitoriją, pasidaryk savo Day01, ir pažymėk mane, jei daliniesi social media. 🤝
 
-## 💡 Ko tikėtis?
 
-- 🐣 Pradedame nuo paprastų komandų: `print()`, `input()`, `if`, `for`
-- 🔁 Tęsiame su projektais: skaičiuotuvai, žaidimai, failų analizė
-- 🤖 Užbaigiame su pažangiais sprendimais: API, GUI, AI modeliai
 
----
-
-## 🚀 Kaip naudoti?
-
-1. Kiekvieną dieną nueik į atitinkamą aplanką.
-2. Perskaityk komentarus faile `main.py`.
-3. Paleisk kodą:
-   ```bash
-   python main.py
