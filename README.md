@@ -22,6 +22,8 @@ Tai mano asmeninis **100 dienų iššūkis**, kurio metu kasdien kuriu vis sudė
 
  Kiekviename:
  - `main.py` – sprendimas su paaiškinimais
+ - `uzduotis.py` - užduoties failas
+ - `paaiskinimas.py` - paaiškinimai kas buvo naudota užduočiai atlikti
  - (kartais) papildomi failai – kaip `README.md`, `data.txt` ar `assets/`
  
  ---
