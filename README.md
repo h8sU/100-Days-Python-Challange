@@ -37,7 +37,7 @@ Tai mano asmeninis **100 dienų iššūkis**, kurio metu kasdien kuriu vis sudė
 
 ## ✨ Kodėl tai darau?
  - Kad įgaučiau kasdienio programavimo įprotį
- - Kad mokyčiausi iš klaid
+ - Kad mokyčiausi iš klaidų
  - Kad įkvėpčiau kitus tai pabandyti
 💬 Prisijunk!
 Nori pradėti savo iššūkį?
