@@ -13,7 +13,6 @@ amziaus_leidimas = 16
 try:
     # Vartoto ivestis: gimimo metai
     gimimo_metai = int(input("Iveskite savo gimimo metus: "))
-
     amzius = dabartiniai_metai - gimimo_metai
     print(f"Tau dabar yra: {amzius} metai.")
 
